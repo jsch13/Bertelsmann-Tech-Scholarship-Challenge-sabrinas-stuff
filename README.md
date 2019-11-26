@@ -7,4 +7,4 @@
  During the foundational course, I created the projects in this repository to contribute to the community.
  
  ## Quiz about the Shell 
- A short Python quiz to help students test their knowledge about the shell.
+ A short Python quiz to help students test their knowledge about the shell here. Get the code [here](https://github.com/SabrinaPalis/Bertelsmann-Tech-Scholarship-Challenge-sabrinas-stuff/blob/master/shell-quiz.py).
